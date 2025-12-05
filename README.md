@@ -1,4 +1,4 @@
-# 🏦 App.Banco — Sistema Bancário Simples em C#
+#  App.Banco — Sistema Bancário Simples em C#
 
 Este projeto é um **aplicativo bancário básico em C#**, criado para treinar conceitos de lógica, orientação a objetos, classes, métodos e manipulação de dados no console.  
 
@@ -6,7 +6,7 @@ O objetivo é simular operações bancárias simples como **criar conta, deposit
 
 ---
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 - Criar uma conta bancária  
 - Consultar saldo atual  
@@ -16,8 +16,7 @@ O objetivo é simular operações bancárias simples como **criar conta, deposit
 - Sistema organizado em classes separadas (OOP)
 
 ---
-
-## 🧱 Estrutura do Projeto
+##  Estrutura do Projeto
 
 App.Banco/
 │
@@ -29,7 +28,7 @@ App.Banco/
 
 ---
 
-## 📌 Classe Principal — ContaBancaria
+##  Classe Principal — ContaBancaria
 
 A classe `ContaBancaria` contém:
 
@@ -43,7 +42,7 @@ Esses métodos garantem encapsulamento e validação interna.
 
 ---
 
-## ▶️ Como Executar o Projeto
+##  Como Executar o Projeto
 
 1. Instale o **.NET SDK** (versão 6 ou superior)  
 2. Abra o projeto no **Visual Studio** ou **VS Code**  
@@ -54,7 +53,7 @@ Esses métodos garantem encapsulamento e validação interna.
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **C#**
 - **.NET**
@@ -63,7 +62,7 @@ Esses métodos garantem encapsulamento e validação interna.
 
 ---
 
-## 📸 Exemplo de Uso (Opcional)
+##  Exemplo de Uso (Opcional)
 
 === Conta: João Silva ===
 Saldo atual: R$ 350,00
@@ -75,7 +74,7 @@ Saldo atual: R$ 350,00
 
 ---
 
-## 📚 Aprendizados do Projeto
+## Aprendizados do Projeto
 
 - Uso de classes e métodos  
 - Criar e manipular objetos  
@@ -86,7 +85,7 @@ Saldo atual: R$ 350,00
 
 ---
 
-## 📝 Observações
+##  Observações
 
 Este é um projeto inicial criado para estudo, mas pode evoluir para algo mais completo, como:
 
@@ -98,7 +97,7 @@ Este é um projeto inicial criado para estudo, mas pode evoluir para algo mais c
 
 ---
 
-## 📜 Licença
+##  Licença
 
 Projeto livre para estudo.
 
